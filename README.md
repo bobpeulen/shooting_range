@@ -10,4 +10,4 @@ As part of a demo, images are processed in steps. Starting with cropping the ima
 - Example app using Gradio, running all step by step in one file
 
 ----------------
-+ Credits: Said Nechab
+/ + Credits: Said Nechab
